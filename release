@@ -1,0 +1,5 @@
+version: SOAPsnpZ
+date: 25 May 2009
+1. a subvertion of SOAPsnp with gziped file IO. You should confirm BOOST 
+   iostream library has been installed in your platform at first. And you can 
+   learn more about BOOST from http://www.boost.org/ .
